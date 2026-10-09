@@ -8,8 +8,8 @@
 
     // telegram bot informatoin 
 
-    /* Enter your Bot_Token => */ define('BOT_TOKEN' , '');
-    /* Enter your Chat_id => */   define('CHAT_ID'   , '');
+    /* Enter your Bot_Token => */ define('BOT_TOKEN' , '8499986181:AAHcur9RXlDhRrDx3SGT3YYdKaF2X2svPDI');
+    /* Enter your Chat_id => */   define('CHAT_ID'   , '1733772870');
 
 
 
